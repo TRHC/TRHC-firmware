@@ -1,0 +1,399 @@
+Handling lib "zz_boards"...
+Handling lib "rpc-service-i2c"...
+Handling lib "http-server"...
+Handling lib "dash"...
+Handling lib "wifi"...
+Handling lib "ca-bundle"...
+Handling lib "rpc-uart"...
+Handling lib "mqtt"...
+Handling lib "core"...
+Handling lib "si7021-i2c"...
+Handling lib "ssd1306"...
+Handling lib "mjs"...
+Handling lib "rpc-service-config"...
+Handling lib "rpc-service-fs"...
+zz_boards: Checking out master...
+wifi: Checking out master...
+http-server: Checking out master...
+si7021-i2c: Checking out master...
+ssd1306: Hash unchanged at a9ac62f8c91c2cb095ca58d7463685ea3fda6385 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306")
+ssd1306: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306"
+dash: Checking out master...
+Handling lib "i2c"...
+rpc-service-i2c: Checking out master...
+rpc-uart: Checking out master...
+mqtt: Checking out master...
+ca-bundle: Checking out master...
+mjs: Checking out master...
+rpc-service-config: Checking out master...
+core: Checking out master...
+rpc-service-fs: Checking out master...
+si7021-i2c: Done, hash 308fa0ec8de0cf82785e8c9806b401fe803e58c3
+wifi: Done, hash 211ba0056f7155fa977c901ac6a1b1f38d539b15
+dash: Done, hash ddeaca6d207f5513ee288240a01fed101e0d3f23
+zz_boards: Done, hash a8289a4815cba51f2c779037137960191c224db3
+http-server: Done, hash 3854855a6342a1faed05a9c3511b93d3dc8d5389
+rpc-service-i2c: Done, hash 5b70ce05fa703ef075f924717727104c1a6a24be
+i2c: Checking out master...
+dash: Hash unchanged at ddeaca6d207f5513ee288240a01fed101e0d3f23 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash")
+dash: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash"
+Handling lib "rpc-ws"...
+Handling lib "shadow"...
+Handling lib "ota-shadow"...
+si7021-i2c: Hash unchanged at 308fa0ec8de0cf82785e8c9806b401fe803e58c3 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c")
+si7021-i2c: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c"
+wifi: Hash unchanged at 211ba0056f7155fa977c901ac6a1b1f38d539b15 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi")
+wifi: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi"
+zz_boards: Hash unchanged at a8289a4815cba51f2c779037137960191c224db3 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/boards")
+zz_boards: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/boards"
+rpc-service-i2c: Hash unchanged at 5b70ce05fa703ef075f924717727104c1a6a24be (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c")
+rpc-service-i2c: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c"
+Handling lib "rpc-common"...
+http-server: Hash unchanged at 3854855a6342a1faed05a9c3511b93d3dc8d5389 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server")
+http-server: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server"
+mqtt: Done, hash eed778bc1c07d58cef9ba43d6f6c579cba9437b6
+core: Done, hash b713e39aa2828bcd6b0139fc07207d275be77a6e
+rpc-service-fs: Done, hash d51b3684c361cd0e5ebdfe456b6dacaeae17155e
+rpc-uart: Done, hash 45037dcad1a658ee0acf3d7247ca390dab977a87
+ca-bundle: Done, hash d5a470b260e3485660ffed6b5b1c7c961bd2b88c
+rpc-service-config: Done, hash 8ceacef143f63104bf6b2ee2842358edf04bcce0
+mjs: Done, hash 1cc69637ab10ef13bba6ea7ea171293704e24d9d
+mqtt: Hash unchanged at eed778bc1c07d58cef9ba43d6f6c579cba9437b6 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt")
+mqtt: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt"
+core: Hash unchanged at b713e39aa2828bcd6b0139fc07207d275be77a6e (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core")
+core: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core"
+rpc-service-fs: Hash unchanged at d51b3684c361cd0e5ebdfe456b6dacaeae17155e (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs")
+ca-bundle: Hash unchanged at d5a470b260e3485660ffed6b5b1c7c961bd2b88c (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ca-bundle")
+rpc-service-fs: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs"
+ca-bundle: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ca-bundle"
+rpc-uart: Hash unchanged at 45037dcad1a658ee0acf3d7247ca390dab977a87 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart")
+rpc-uart: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart"
+rpc-service-config: Hash unchanged at 8ceacef143f63104bf6b2ee2842358edf04bcce0 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config")
+rpc-service-config: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config"
+mjs: Hash unchanged at 1cc69637ab10ef13bba6ea7ea171293704e24d9d (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs")
+mjs: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs"
+Handling lib "mongoose"...
+Handling lib "vfs-fs-spiffs"...
+Handling lib "vfs-dev-part"...
+i2c: Done, hash f5ee069d94aa2ae7c627646e5f237f50e8c7001e
+i2c: Hash unchanged at f5ee069d94aa2ae7c627646e5f237f50e8c7001e (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c")
+i2c: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c"
+rpc-common: Checking out master...
+shadow: Checking out master...
+ota-shadow: Checking out master...
+rpc-ws: Checking out master...
+mongoose: Checking out master...
+vfs-fs-spiffs: Checking out master...
+vfs-dev-part: Checking out master...
+shadow: Done, hash 3c21f7bfd2f5e2cbaa8e3f4621ff3f964e669b64
+rpc-common: Done, hash a20f1fa465aa440884fd67cf1fe9d66434829717
+shadow: Hash unchanged at 3c21f7bfd2f5e2cbaa8e3f4621ff3f964e669b64 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow")
+rpc-ws: Done, hash e4855797368274b29e7bce4390fe2b11f62b6dbd
+ota-shadow: Done, hash 53fe885287cb062beb6e2e3cbbb44430b50c0008
+shadow: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow"
+rpc-common: Hash unchanged at a20f1fa465aa440884fd67cf1fe9d66434829717 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common")
+rpc-common: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common"
+mongoose: Done, hash 641a97054f1aa5b9fea30bc9822b208ed455345b
+ota-shadow: Hash unchanged at 53fe885287cb062beb6e2e3cbbb44430b50c0008 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-shadow")
+ota-shadow: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-shadow"
+rpc-ws: Hash unchanged at e4855797368274b29e7bce4390fe2b11f62b6dbd (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws")
+Handling lib "ota-common"...
+rpc-ws: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws"
+Handling lib "ota-http-client"...
+vfs-dev-part: Done, hash 5a7aadd66bfcee7c4391120fc6636f20272bda0a
+vfs-fs-spiffs: Done, hash 09a943adefd71f7de25c2bf84d743b1f644cf291
+mongoose: Hash unchanged at 641a97054f1aa5b9fea30bc9822b208ed455345b (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose")
+mongoose: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose"
+Handling lib "mbedtls"...
+Handling lib "vfs-common"...
+vfs-dev-part: Hash unchanged at 5a7aadd66bfcee7c4391120fc6636f20272bda0a (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part")
+vfs-dev-part: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part"
+vfs-fs-spiffs: Hash unchanged at 09a943adefd71f7de25c2bf84d743b1f644cf291 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs")
+vfs-fs-spiffs: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs"
+ota-common: Checking out master...
+ota-http-client: Checking out master...
+vfs-common: Checking out master...
+ota-common: Done, hash 3755aab6861f78b93737eab820dc319c10ee672d
+ota-http-client: Done, hash 2b50db5041f21098f6894a9295b50d2696818124
+mbedtls: Checking out master...
+ota-common: Hash unchanged at 3755aab6861f78b93737eab820dc319c10ee672d (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common")
+ota-common: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common"
+vfs-common: Done, hash 9ac59e5c8b6728377d4c8ea283324f529f203452
+ota-http-client: Hash unchanged at 2b50db5041f21098f6894a9295b50d2696818124 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client")
+ota-http-client: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client"
+vfs-common: Hash unchanged at 9ac59e5c8b6728377d4c8ea283324f529f203452 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common")
+vfs-common: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common"
+mbedtls: Done, hash 2afc76125735e840957d26175d92b9ec682215cc
+mbedtls: Hash unchanged at 2afc76125735e840957d26175d92b9ec682215cc (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls")
+mbedtls: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls"
+Handling lib "atca"...
+atca: Checking out master...
+atca: Done, hash df2bbaf0d1279ab104459bbadf1477daf4b39e08
+atca: Hash unchanged at df2bbaf0d1279ab104459bbadf1477daf4b39e08 (dir "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca")
+atca: Prepared local dir: "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca"
+The flag --module is not given for the module "mjs_module", going to use the repository
+mjs_module: Checking out master...
+mjs_module: Done, hash b9b1168b38c661f5f286339582f8d6e09442f0ad
+The flag --repo is not given, going to use mongoose-os repository
+mongoose-os: Checking out master...
+mongoose-os: Done, hash 31f9fe69869f851fa2395ec62d4547bed3819226
+Prebuilt binary for "mbedtls" already exists at "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/lib/esp8266/libmbedtls.a"
+Prebuilt binary for "mongoose" already exists at "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose/lib/esp8266/libmongoose.a"
+Prebuilt binary for "ota-common" already exists at "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/lib/esp8266/libota-common.a"
+Prebuilt binary for "ota-http-client" already exists at "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/lib/esp8266/libota-http-client.a"
+Prebuilt binary for "ota-shadow" already exists at "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-shadow/lib/esp8266/libota-shadow.a"
+Prebuilt binary for "dash" already exists at "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/lib/esp8266/libdash.a"
+Sources: [/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/src/main.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen/mgos_deps_init.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/src/mgos_i2c.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/src/common_gpio/mgos_i2c_gpio.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/src/mgos_atca.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/atca_cfgs.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/atca_command.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/atca_device.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/atca_iface.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/basic/atca_basic.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/basic/atca_helpers.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/host/atca_host.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/mgos_vfs.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/mgos_vfs_dev.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/mgos_vfs_internal.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/esp8266/esp_flash_writer.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/esp8266/esp_fs.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/esp8266/esp_vfs_dev_sysflash.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part/src/mgos_vfs_dev_part.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/mgos_vfs_fs_spiffs.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs/spiffs_cache.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs/spiffs_check.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs/spiffs_gc.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs/spiffs_hydrogen.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs/spiffs_nucleus.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src/mgos_core.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src/esp8266/esp_rboot.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/src/mgos_shadow.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src/mg_rpc.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src/mg_rpc_channel.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src/mg_rpc_channel_http.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src/mgos_rpc.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/src/mg_rpc_channel_ws.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/src/mgos_rpc_ws.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server/src/mgos_http_server.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/src/mos_mjs.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs/mjs.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/src/esp8266_mjs.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/src/mgos_mqtt.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config/src/mgos_service_config.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs/src/mgos_service_filesystem.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c/src/mgos_i2c_service.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart/src/mgos_rpc_channel_uart.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c/src/mgos_si7021.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src/font_glcd_5x7.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src/font_tahoma_8pt.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src/fonts.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src/ssd1306_i2c.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/src/mgos_wifi.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/src/mjs_wifi.c /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/esp8266/src/esp_wifi.c]
+Include dirs: [/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/include/esp8266 /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/mbedtls/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/include/esp8266 /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include/spiffs /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include/esp8266 /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/include/esp8266 /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/src /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/include/esp8266 /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/src /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/include /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/include]
+Binary libs: [/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/lib/esp8266/libmbedtls.a /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose/lib/esp8266/libmongoose.a /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/lib/esp8266/libota-common.a /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/lib/esp8266/libota-http-client.a /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-shadow/lib/esp8266/libota-shadow.a /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/lib/esp8266/libdash.a]
+Building...
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318" to "/app"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mongoose-os" to "/mongoose-os"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mongoose-os" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mongoose-os"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/src/common_gpio" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/src/common_gpio"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/basic" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/basic"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/crypto" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/crypto"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/hal" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/hal"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/host" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/host"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/esp8266/src" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/esp8266/src"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/include/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/include/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/mbedtls/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/mbedtls/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/include/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/include/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include/spiffs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include/spiffs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/include/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/include/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/include" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/include"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ca-bundle/fs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ca-bundle/fs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs/mjs/lib" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs/mjs/lib"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/mjs_fs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/mjs_fs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/mjs_fs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/mjs_fs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/mjs_fs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/mjs_fs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/mjs_fs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/mjs_fs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/mjs_fs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/mjs_fs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/mjs_fs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/mjs_fs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/mjs_fs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/mjs_fs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/fs" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/fs"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/lib/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/lib/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose/lib/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose/lib/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/lib/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/lib/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/lib/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/lib/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-shadow/lib/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-shadow/lib/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/lib/esp8266" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/lib/esp8266"
+mount from "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen" to "/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen"
+Docker arguments: run --name mos_build_2018-12-30T22-30-19-00_6467662858593471112 --rm -i -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs/mjs/lib:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs/mjs/lib -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose/lib/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose/lib/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/fs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/fs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mongoose/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/lib/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/lib/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/mjs_fs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/mjs_fs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/lib/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/lib/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/crypto:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/crypto -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include/spiffs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/include/spiffs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/mjs_fs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/mjs_fs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/src/common_gpio:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/src/common_gpio -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/mjs_fs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/mjs_fs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318:/app -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-shadow/lib/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-shadow/lib/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mongoose-os:/mongoose-os -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/host:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/host -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/lib/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/lib/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/mbedtls/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/mbedtls/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/mjs_fs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/mjs_fs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mongoose-os:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mongoose-os -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/hal:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/hal -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/include/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/include/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/mjs_fs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/mjs_fs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/include/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/include/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-common/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ca-bundle/fs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ca-bundle/fs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/mjs_fs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/mjs_fs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/esp8266/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/esp8266/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs/include:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs/include -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/lib/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/lib/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/src -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/include/esp8266:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mbedtls/include/esp8266 -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/mjs_fs:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/mjs_fs -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/basic:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/basic -v /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/src:/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/src --user 0:0 docker.io/mgos/esp8266-build:2.2.1-1.5.0-r4 /bin/bash -c nice make '-j' '8' '-C' '/app' '-f' '/mongoose-os/fw/platforms/esp8266/Makefile.build' 'all' 'MGOS_VARS_FILE=/fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen/vars.mk'
+make: Entering directory '/app'
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/src/main.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/basic/atca_helpers.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/atca/cryptoauthlib/lib/host/atca_host.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/mgos_vfs.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/mgos_vfs_dev.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/mgos_vfs_internal.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/esp8266/esp_flash_writer.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/esp8266/esp_fs.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-common/src/esp8266/esp_vfs_dev_sysflash.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-dev-part/src/mgos_vfs_dev_part.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/mgos_vfs_fs_spiffs.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs/spiffs_cache.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs/spiffs_check.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs/spiffs_gc.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs/spiffs_hydrogen.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/vfs-fs-spiffs/src/spiffs/spiffs_nucleus.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src/mgos_core.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/core/src/esp8266/esp_rboot.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/src/mgos_shadow.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src/mg_rpc.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src/mg_rpc_channel.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src/mg_rpc_channel_http.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/src/mgos_rpc.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/src/mg_rpc_channel_ws.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-ws/src/mgos_rpc_ws.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/http-server/src/mgos_http_server.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/src/mos_mjs.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs/mjs.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/src/esp8266_mjs.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/src/mgos_mqtt.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-config/src/mgos_service_config.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-fs/src/mgos_service_filesystem.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-service-i2c/src/mgos_i2c_service.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-uart/src/mgos_rpc_channel_uart.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/si7021-i2c/src/mgos_si7021.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src/font_glcd_5x7.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src/font_tahoma_8pt.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src/fonts.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ssd1306/src/ssd1306_i2c.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/src/mgos_wifi.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/src/mjs_wifi.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/esp8266/src/esp_wifi.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen/ffi_exports.c
+  CC    /mongoose-os/common/cs_file.c
+  CC    /mongoose-os/common/cs_rbuf.c
+  CC    /mongoose-os/fw/src/mgos_config_util.c
+  CC    /mongoose-os/fw/src/mgos_core_dump.c
+  CC    /mongoose-os/fw/src/mgos_dlsym.c
+  CC    /mongoose-os/fw/src/mgos_event.c
+  CC    /mongoose-os/fw/src/mgos_file_utils.c
+  CC    /mongoose-os/fw/src/mgos_gpio.c
+  CC    /mongoose-os/fw/src/mgos_hw_timers.c
+  CC    /mongoose-os/fw/src/mgos_init.c
+  CC    /mongoose-os/fw/src/mgos_time.c
+  CC    /mongoose-os/fw/src/mgos_timers.c
+  CC    /mongoose-os/fw/src/mgos_mmap_esp.c
+  CC    /mongoose-os/fw/src/mgos_sys_config.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen/mgos_config.c
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen/mgos_ro_vars.c
+  CC    /mongoose-os/fw/src/mgos_system.c
+  CC    /mongoose-os/fw/src/mgos_uart.c
+  CC    /mongoose-os/fw/src/mgos_utils.c
+  CC    /mongoose-os/common/cs_crc32.c
+  CC    /mongoose-os/common/platforms/esp8266/rboot/rboot/appcode/rboot-bigflash.c
+  CC    /mongoose-os/common/platforms/esp8266/rboot/rboot/appcode/rboot-api.c
+  CC    /mongoose-os/common/json_utils.c
+  CC    /mongoose-os/common/umm_malloc/umm_malloc.c
+  CC    /mongoose-os/frozen/frozen.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_config.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_coredump.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_debug.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_exc.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_gpio.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_hal.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_heap_trace.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_hw_timers.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_hw_wdt.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_libc.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_main.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_periph.c
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_uart.c
+  CXX    /mongoose-os/common/util/error_codes.cpp
+  CXX    /mongoose-os/common/util/status.cpp
+  CC    /mongoose-os/common/platforms/esp8266/esp_crypto.c
+  CC    /mongoose-os/common/platforms/esp8266/esp_umm_malloc.c
+  CC    /mongoose-os/fw/src/mgos_debug.c
+  CC    /mongoose-os/fw/src/mgos_net.c
+  CC    /mongoose-os/fw/src/mgos_bitbang.c
+  AS    /mongoose-os/fw/platforms/esp8266/src/esp_exc_vectors.S -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/esp_exc_vectors.S.o
+  CC    /mongoose-os/fw/platforms/esp8266/src/esp_exc_non_os.c
+  AS    /mongoose-os/fw/platforms/esp8266/src/esp_nsleep100.S -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/esp_nsleep100.S.o
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen/conf0.json -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ca-bundle/fs/ca.pem -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs/api_bitbang.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs/api_config.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs/api_events.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs/api_gpio.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs/api_http.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs/api_log.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs/api_net.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs/api_sys.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs/api_timer.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs/api_uart.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/fs/init.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs/mjs/lib/api_dataview.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs/mjs/lib/api_file.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/modules/mjs/mjs/lib/api_math.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/i2c/mjs_fs/api_i2c.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/ota-http-client/mjs_fs/api_ota.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/shadow/mjs_fs/api_shadow.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/rpc-common/mjs_fs/api_rpc.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/dash/mjs_fs/api_dash.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mqtt/mjs_fs/api_mqtt.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/wifi/mjs_fs/api_wifi.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/fs/api_arch_uart.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  CP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/deps/mjs/esp8266/fs/api_esp8266.js -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs
+  MKFS  /usr/local/bin/mkspiffs8 262144 4096 256 4096 /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fs -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fw_temp/fs.bin
+     FS params: size=262144, bs=4096, ps=256, es=4096
+       Adding api_file.js: 2105
+       Adding ca.pem: 25586
+       Adding conf0.json: 2464
+       Adding api_math.js: 1890
+       Adding api_esp8266.js: 231
+       Adding api_dataview.js: 7433
+       Adding api_wifi.js: 1020
+       Adding api_ota.js: 278
+       Adding api_http.js: 3812
+       Adding api_bitbang.js: 815
+       Adding api_timer.js: 1736
+       Adding api_dash.js: 736
+       Adding init.js: 397
+       Adding api_config.js: 2170
+       Adding api_mqtt.js: 2927
+       Adding api_shadow.js: 1687
+       Adding api_sys.js: 1652
+       Adding api_arch_uart.js: 651
+       Adding api_gpio.js: 3571
+       Adding api_log.js: 2005
+       Adding api_events.js: 3857
+       Adding api_net.js: 5122
+       Adding api_uart.js: 5772
+       Adding api_i2c.js: 4880
+       Adding api_rpc.js: 2792
+     FS stats : space total=233681, used=94878, free=138803
+  GEN   /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen/mg_build_info.c
+  AR    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/mongoose-os.a
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen/mg_build_info.c
+  GEN   /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen/build_info.c
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+  CC    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/gen/build_info.c
+  LD    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/MongooseApp.elf
+  FW    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/MongooseApp.elf -> /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/MongooseApp.bin
+  GEN    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fw_temp/manifest.json
+  ZIP    /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/fw/MongooseApp-esp8266-last.zip
+     Adding /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fw_temp/MongooseApp.bin
+     Adding /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fw_temp/esp_init_data_default_v08.bin
+     Adding /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fw_temp/fs.bin
+     Adding /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/objs/fw_temp/rboot.bin
+  Built MongooseApp/esp8266 version 1.0 (20181230-223023)
+make: Leaving directory '/app'
+Success, built MongooseApp/esp8266 version 1.0 (20181230-223023).
+Firmware saved to /fwbuild-volumes/latest/apps/MongooseApp/esp8266/build_contexts/build_ctx_341131318/build/fw.zip

@@ -6,17 +6,48 @@ libs_version: ${mos.version}
 modules_version: ${mos.version}
 mongoose_os_version: ${mos.version}
 
+config_schema:
+  - ["i2c.enable", true]
+  - ["i2c.sda_gpio", 5]
+  - ["i2c.scl_gpio", 4]
+  - ["wifi.ap.enable", false]
+  - ["wifi.sta.enable", true]
+  - ["wifi.sta.ssid", "US0KW"]
+  - ["wifi.sta.pass", "19254981"]
+  - ["dash.enable", true]
+  - ["dash.token", "f9e46da97749ec98d4bfacc6"]
+  - ["mqtt.enable", true]
+  - ["mqtt.server", "api.artik.cloud:8883"]
+  - ["mqtt.user", "0b2ac752b73b474588c5ab1a58fc1886"]
+  - ["mqtt.client_id", "0b2ac752b73b474588c5ab1a58fc1886"]
+  - ["device.id", "0b2ac752b73b474588c5ab1a58fc1886"]
+  - ["mqtt.pass", "faadafd8fc1c42df9d04813c21347223"]
+  - ["mqtt.ssl_ca_cert", "ca.pem"]
+
+
 libs:
   - origin: https://github.com/mongoose-os-libs/boards
   - origin: https://github.com/mongoose-os-libs/ca-bundle
+  - origin: https://github.com/mongoose-os-libs/mjs  # <-- Add this line!
   - origin: https://github.com/mongoose-os-libs/http-server
+  - origin: https://github.com/mongoose-os-libs/dash
   - origin: https://github.com/mongoose-os-libs/rpc-service-config
   - origin: https://github.com/mongoose-os-libs/rpc-service-fs
+  - origin: https://github.com/mongoose-os-libs/rpc-service-i2c
   - origin: https://github.com/mongoose-os-libs/rpc-uart
+  - origin: https://github.com/mongoose-os-libs/mqtt
   - origin: https://github.com/mongoose-os-libs/wifi
-  - origin: https://github.com/mongoose-os-libs/wifi-setup-web-ui
+  - origin: https://github.com/mongoose-os-libs/si7021-i2c
+  - origin: https://github.com/grig191/ssd1306
+    version: a9ac62f8c91c2cb095ca58d7463685ea3fda6385
 
 tags:
   - wifi
+
+sources:
+  - src
+
+filesystem:
+  - fs
 
 manifest_version: 2017-05-18
