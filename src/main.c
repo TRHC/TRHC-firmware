@@ -7,12 +7,20 @@
 static struct mgos_si7021 *s_si7021;
 static struct mgos_ssd1306 *d_ssd1306;
 
-static void timer_cb(void *user_data) {
+float getTemp(void) {
+  return mgos_si7021_getTemperature(s_si7021);
+}
+
+float getHumd(void) {
+  return mgos_si7021_getHumidity(s_si7021);
+}
+
+static void timer_cb(void) {
   float temperature, humidity;
   char *d = malloc(34);
 
-  temperature = mgos_si7021_getTemperature(s_si7021);
-  humidity    = mgos_si7021_getHumidity(s_si7021);
+  temperature = getTemp();
+  humidity    = getHumd();
 
   LOG(LL_INFO, ("si7021 temperature=%.2f humidity=%.2f", temperature, humidity));
   mgos_ssd1306_clear(d_ssd1306);
@@ -21,8 +29,7 @@ static void timer_cb(void *user_data) {
   sprintf(d, "Humd: %.2f (RH)", humidity);
   mgos_ssd1306_draw_string(d_ssd1306, 0, 20, d);
   mgos_ssd1306_refresh(d_ssd1306, true);
-
-  (void) user_data;
+  free(d);
 }
 
 static void tempInit(void) {
@@ -31,7 +38,7 @@ static void tempInit(void) {
   if (i2c) {
     s_si7021 = mgos_si7021_create(i2c, 0x40); // Default I2C address
     if (s_si7021) {
-      mgos_set_timer(1000, true, timer_cb, NULL);
+      //mgos_set_timer(1000, true, timer_cb, NULL);
     } else {
       LOG(LL_ERROR, ("Could not initialize sensor"));
     }
@@ -61,8 +68,9 @@ void drawWelcome(void) {
 }
 
 enum mgos_app_init_result mgos_app_init(void) {
-  // displayInit();
-  // drawWelcome();
+  displayInit();
+  drawWelcome();
   tempInit();
+  timer_cb();
   return MGOS_APP_INIT_SUCCESS;
 }
