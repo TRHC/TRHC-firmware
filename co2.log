@@ -1,0 +1,59 @@
+[Jan 29 23:15:33.162] timer_cb             ccs811 eco2=518.00 ; tvoc=17.00
+[Jan 29 23:15:33.162] timer_cb   {$ l  |  d |      d  b|     s c  #  ng $gn    c p  ${$sd8 o       $      b ' | $l   c  og  l  d`   'o   d  '{   o    l  p n     {         c g |     c  g'    l    ng l`   '{   g   $  l s  n   l  
+[Jan 29 23:15:33.228] rBoot v1.2.1-cesanta1 - richardaburton@gmail.com
+[Jan 29 23:15:33.233] Flash Size:   32 Mbit
+[Jan 29 23:15:33.233] Flash Mode:   DIO
+[Jan 29 23:15:33.236] Flash Speed:  40 MHz
+[Jan 29 23:15:33.240] rBoot Option: Big flash
+[Jan 29 23:15:33.241] 
+[Jan 29 23:15:33.278] Booting rom 0 (0x100000).
+[Jan 29 23:15:33.342]      '  {  n<  $ dld`  c     | s  d g   g   d`   r $ d  mode : softAP(5e:cf:7f:78:27:30)
+[Jan 29 23:15:33.350] esp_mgos_init2       TRHC-firmware 1.0 (20190129-202233)
+[Jan 29 23:15:33.355] esp_mgos_init2       Mongoose OS 2.11.0 (20190126-093248/2.11.0-g640ebcb65)
+[Jan 29 23:15:33.364] esp_mgos_init2       CPU: ESP8266EX, 160 MHz, RAM: 51856 total, 49284 free
+[Jan 29 23:15:33.370] esp_mgos_init2       SDK 2.2.1(1247cc5); flash: 4M
+[Jan 29 23:15:33.373] esp_print_reset_info Reset cause: 6 (sys reset)
+[Jan 29 23:15:33.378] mg_lwip_if_init      Mongoose 6.13, LwIP 1.4.1
+[Jan 29 23:15:33.381] mg_ssl_if_init       mbed TLS 2.13.1-cesanta4
+[Jan 29 23:15:33.387] mgos_vfs_dev_create_ sfl0: sysflash (), size 4194304
+[Jan 29 23:15:33.395] mgos_vfs_dev_create_ root: part ({"dev": "sfl0", "offset": 32768, "size": 262144}), size 262144
+[Jan 29 23:15:33.404] mgos_vfs_mount_dev   /: SPIFFS @ root, opts 
+[Jan 29 23:15:33.471] mgos_vfs_print_fs_in /: size 233681, used: 132277, free: 101404
+[Jan 29 23:15:33.565] mgos_sys_config_init MAC: 5ECF7F782730
+[Jan 29 23:15:33.569] mgos_sys_config_init WDT: 30 seconds
+[Jan 29 23:15:33.573] mgos_i2c_create      I2C GPIO init ok (SDA: 5, SCL: 4, freq: 10000)
+[Jan 29 23:15:33.579] mgos_ota_shadow_init OTA over shadow initialised
+[Jan 29 23:15:33.586] bcn 0
+[Jan 29 23:15:33.586] del if1
+[Jan 29 23:15:33.586] usl
+[Jan 29 23:15:33.586] mode : null
+[Jan 29 23:15:33.586] mgos_wifi_setup      WiFi mode: off
+[Jan 29 23:15:33.592] mgos_wifi_set_mode   WiFi mode: AP
+[Jan 29 23:15:33.595] mode : softAP(5e:cf:7f:78:27:30)
+[Jan 29 23:15:33.598] add if1
+[Jan 29 23:15:33.598] dhcp server start:(ip:192.168.4.1,mask:255.255.255.0,gw:192.168.4.1)
+[Jan 29 23:15:33.604] bcn 100
+[Jan 29 23:15:33.604] mgos_wifi_set_mode   WiFi mode: disabled
+[Jan 29 23:15:33.611] bcn 0
+[Jan 29 23:15:33.611] del if1
+[Jan 29 23:15:33.611] usl
+[Jan 29 23:15:33.611] mode : null
+[Jan 29 23:15:33.613] mgos_http_server_ini HTTP server started on [80]
+[Jan 29 23:15:33.620] mgos_dash_init       Dash init ok, server: wss://dash.mongoose-os.com/api/v2/rpc)
+[Jan 29 23:15:33.632] mg_rpc_channel_uart  0x3fff184c UART0
+[Jan 29 23:15:33.646] mgos_si7021_create   SI7021 created at I2C 0x40
+[Jan 29 23:15:33.769] mgos_ccs811_create   CCS811 created at I2C 0x5b
+[Jan 29 23:15:33.777] mgos_init            Init done, RAM: 51856 total, 42648 free, 42656 min free
+[Jan 29 23:15:35.613] MJS error: failed to read file "app.js"
+[Jan 29 23:15:35.623] mongoose_poll        New heap free LWM: 13664
+[Jan 29 23:15:35.630] mgos_lic_init        UID: 03e8e6859552f0d8, license: none
+[Jan 29 23:17:15.553] timer_cb             ccs811 eco2=461.00 ; tvoc=9.00
+[Jan 29 23:17:15.556] timer_cb             si7021 temp=25.45 ; humd=34.70
+[Jan 29 23:18:55.656] timer_cb             ccs811 eco2=502.00 ; tvoc=15.00
+[Jan 29 23:18:55.659] timer_cb             si7021 temp=25.21 ; humd=34.05
+[Jan 29 23:20:34.560] timer_cb             ccs811 eco2=763.00 ; tvoc=55.00
+[Jan 29 23:20:34.564] timer_cb             si7021 temp=25.40 ; humd=35.20
+[Jan 29 23:22:14.736] timer_cb             ccs811 eco2=475.00 ; tvoc=11.00
+[Jan 29 23:22:14.739] timer_cb             si7021 temp=25.69 ; humd=36.52
+[Jan 29 23:23:54.834] timer_cb             ccs811 eco2=425.00 ; tvoc=3.00
+[Jan 29 23:23:54.837] timer_cb             si7021 temp=25.46 ; humd=34.23
