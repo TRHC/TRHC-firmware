@@ -9,7 +9,7 @@ platform: esp8266
 
 config_schema:
   - ["i2c.enable", true]
-  - ["i2c.freq", 10000]
+  - ["i2c.freq", 16000]
   - ["i2c.sda_gpio", 5]
   - ["i2c.scl_gpio", 4]
   - ["wifi.ap.enable", false]

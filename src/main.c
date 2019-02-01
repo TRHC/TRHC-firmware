@@ -38,14 +38,14 @@ static void timer_cb(void *user_data) {
 
   mgos_usleep(5000);
 
-  //ret = mgos_i2c_read_reg_b(i2c, 0x5B, 0x20);
+  //ret = mgos_i2c_read_reg_b(i2c, 0x5B, 0x17);
   //LOG(LL_INFO, ("CCS811 INIT CODE! :: 0x%02x", ret));
 
   //ret = mgos_i2c_write(i2c, 0x5B, data, 5, true);
   //LOG(LL_INFO, ("CCS811 RESET CODE! :: 0x%02x", ret));
 
   float temp = getTemp();
-  float humd    = getHumd();
+  float humd = getHumd();
   float eco2 = getECO2();
   float tvoc = getTVOC();
 
@@ -62,11 +62,11 @@ static void tempInit(void) {
   if (i2c) {
     mgos_usleep(5000);
     s_si7021 = mgos_si7021_create(i2c, 0x40); // Default I2C address
-    mgos_set_timer(100000, true, timer_cb, NULL);    
+    mgos_set_timer(10000, true, timer_cb, NULL);    
     mgos_usleep(5000);
     s_ccs811 = mgos_ccs811_create(i2c, 0x5b); // Default I2C address
-    mgos_ccs811_setDriveMode(s_ccs811, CCS811_DRIVE_MODE_10SEC);
-    if (s_si7021) {
+    if (s_si7021 && s_ccs811) {
+      mgos_ccs811_setDriveMode(s_ccs811, CCS811_DRIVE_MODE_10SEC);
     } else {
       LOG(LL_ERROR, ("Could not initialize sensor"));
     }
