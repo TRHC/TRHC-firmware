@@ -4,6 +4,15 @@
 #include "mgos_mqtt.h"
 #include "mgos_ccs811.h"
 
+// Trying to compat with Arduino <Wire.h>
+#include "Arduino.h"
+#include "Wire.h"
+#include "hd44780.h"
+#include "hd44780ioClass/hd44780_I2Cexp.h"
+
+hd44780_I2Cexp lcd[1];
+#define I2CEXPDIAG_CFG_DECODE_ESP8266PINS
+
 static struct mgos_ccs811 *s_ccs811;
 static struct mgos_si7021 *s_si7021;
 static struct mgos_i2c *i2c;
